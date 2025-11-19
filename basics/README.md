@@ -7,3 +7,4 @@ explication des differentes fonctions des fichiers
 4-listmorefiles: affiche les fichier et les fichier cacher du dossier en long
 5-listfilesdigitonly: affiche les fichier cacher en long et en digit
 6-firstdirectory: cree un dossier dans le dossier /tmp
+7-movethatfile: deplace le fichier betty de /tmp a /tmp/my_first_directory
