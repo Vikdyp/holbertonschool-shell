@@ -38,3 +38,6 @@ Affiche les fichiers classique et cacher en format long du dossier actuel, du do
 
 ### 12-file_type
 Affiche de quel type est le fichier `/tmp/iamafile`.
+
+### 13-symbolic_link
+Cree un lien au fichier `/bin/ls` nomer `__is__`
