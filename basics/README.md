@@ -1,34 +1,37 @@
-# explication des differentes fonctions des fichiers
+# Explication des differentes fonctions des fichiers
 
 ### 0-current_working_directory:
-affiche la route complet actuel
+Affiche la route complet actuel.
 
 ### 1-listit:
-affiche le contenu du dossier actuel
+Affiche le contenu du dossier actuel.
 
 ### 2-bring_me_home:
-ramene au home directory
+Ramene au home directory.
 
 ### 3-listfiles:
-affiche les fichier du dossier en long
+Affiche les fichier du dossier en long.
 
 ### 4-listmorefiles:
-affiche les fichier et les fichier cacher du dossier en long
+Affiche les fichier et les fichier cacher du dossier en long.
 
 ### 5-listfilesdigitonly:
-affiche les fichier cacher en long et en digit
+Affiche les fichier cacher en long et en digit.
 
 ### 6-firstdirectory:
-cree un dossier dans le dossier /tmp
+Cree un dossier dans le dossier `/tmp`.
 
 ### 7-movethatfile:
-deplace le fichier betty de /tmp a /tmp/my_first_directory
+Deplace le fichier betty de `/tmp a /tmp/my_first_directory`.
 
 ### 8-firstdelete: 
-supprime le fichier /tmp/my_first_directory/betty
+Supprime le fichier `/tmp/my_first_directory/betty`
 
 ### 9-firstdirdeletion
-supprime le dossier /tmp/my_first_directory
+Supprime le dossier `/tmp/my_first_directory`.
 
 ### 10-back
-revient au dossier precedant
+Revient au dossier precedant en utlisant la variable $OLDPWD.
+
+### 11-lists
+Affiche les fichiers classique et cacher en format long du dossier actuel, du dossier parent, et du dossier `/boot` dans l'ordre.
