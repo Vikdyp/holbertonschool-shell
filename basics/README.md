@@ -43,4 +43,4 @@ Affiche de quel type est le fichier `/tmp/iamafile`.
 Cree un lien au fichier `/bin/ls` nomer `__is__`.
 
 ### 14-copy_htlm
-Copie tout les fichiers htlm du dossier courant vers le dossier parent si ils sont plus recent ou qu'il n'existe pas.
+Copie tout les fichiers html du dossier courant vers le dossier parent si ils sont plus recent ou qu'il n'existe pas.
