@@ -40,4 +40,7 @@ Affiche les fichiers classique et cacher en format long du dossier actuel, du do
 Affiche de quel type est le fichier `/tmp/iamafile`.
 
 ### 13-symbolic_link
-Cree un lien au fichier `/bin/ls` nomer `__is__`
+Cree un lien au fichier `/bin/ls` nomer `__is__`.
+
+### 14-copy_htlm
+Copie tout les fichiers htlm du dossier courant vers le dossier parent si ils sont plus recent ou qu'il n'existe pas.
