@@ -47,3 +47,6 @@ Copie tout les fichiers html du dossier courant vers le dossier parent si ils so
 
 ### 15-lets_move
 Deplace tout les fichiers du dossier courant qui commence par une majuscule dans le dossier `/tmp/u`.
+
+### 16-clean_emacs
+Supprime tout les fichiers qui se termine par ~.
