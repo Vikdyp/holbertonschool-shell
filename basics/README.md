@@ -50,3 +50,6 @@ Deplace tout les fichiers du dossier courant qui commence par une majuscule dans
 
 ### 16-clean_emacs
 Supprime tout les fichiers qui se termine par ~.
+
+### 17-tree
+Cree un dossier `/welcome` un dossier `/welcome/to` et `/welcome/to/school`.
