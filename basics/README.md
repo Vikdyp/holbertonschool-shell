@@ -44,3 +44,6 @@ Cree un lien au fichier `/bin/ls` nomer `__is__`.
 
 ### 14-copy_htlm
 Copie tout les fichiers html du dossier courant vers le dossier parent si ils sont plus recent ou qu'il n'existe pas.
+
+### 15-lets_move
+Deplace tout les fichiers du dossier courant qui commence par une majuscule dans le dossier `/tmp/u`.
